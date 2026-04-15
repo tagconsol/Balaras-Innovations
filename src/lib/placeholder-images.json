@@ -1,0 +1,142 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Professional laboratory setting with water droplets and beakers, representing high-quality water testing.",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHhzfHxsYWJvcmF0b3J5JTIwd2F0ZXJ8ZW58MHx8fHwxNzc0MTI2NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laboratory water"
+    },
+    {
+      "id": "ai-ml",
+      "description": "Digital visualization of water quality data and chemical analysis.",
+      "imageUrl": "https://images.unsplash.com/photo-1532187875605-2fe35851142b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzY2llbnRpZmljJTIwYW5hbHlzaXN8ZW58MHx8fHwxNzY5OTU2NDc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scientific analysis"
+    },
+    {
+      "id": "cloud-solutions",
+      "description": "Modern water treatment plant with digital monitoring systems.",
+      "imageUrl": "https://images.unsplash.com/photo-1584433144859-1fc3ab84a9ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3YXRlciUyMHRyZWF0bWVudHxlbnwwfHx8fDE3Njk5OTMyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water treatment"
+    },
+    {
+      "id": "software-dev",
+      "description": "Precision water quality testing equipment and handheld meters.",
+      "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVzdGluZyUyMGVxdWlwbWVudHxlbnwwfHx8fDE3Njk5MzI2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "testing equipment"
+    },
+    {
+      "id": "fintech",
+      "description": "Industrial water monitoring systems in a large-scale manufacturing plant.",
+      "imageUrl": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbmR1c3RyaWFsJTIwd2F0ZXJ8ZW58MHx8fHwxNzY5OTc2OTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "industrial water"
+    },
+    {
+      "id": "healthtech",
+      "description": "Environmental specialist taking water samples from a natural lake.",
+      "imageUrl": "https://images.unsplash.com/photo-1544253710-9a6967a996d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3YXRlOHNhbXBsaW5nfGVufDB8fHx8MTc2OTk1NDUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water sampling"
+    },
+    {
+      "id": "edtech",
+      "description": "Scientific laboratory with advanced beakers and testing reagents.",
+      "imageUrl": "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsYWIlMjBiZWFrZXJ8ZW58MHx8fHwxNzY5OTk0OTY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lab beaker"
+    },
+    {
+      "id": "about-us",
+      "description": "A team of environmental scientists collaborating on water analysis data.",
+      "imageUrl": "https://images.unsplash.com/photo-1530124560676-587cad3074b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzY2llbnRpc3RzJTIwd2F0ZXJ8ZW58MHx8fHwxNzY5OTQ0MTg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scientists water"
+    },
+    {
+      "id": "innovation-banner",
+      "description": "Advanced robotic water analysis system in a high-tech facility.",
+      "imageUrl": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3YXRlciUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzcxNDEyNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water technology"
+    },
+    {
+      "id": "careers-hero",
+      "description": "Modern laboratory facility ready for research and development.",
+      "imageUrl": "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsYWJvcmF0b3J5fGVufDB8fHx8MTc2OTkzMjc3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laboratory"
+    },
+    {
+      "id": "hero-carousel-1",
+      "description": "Professional water quality testing equipment and meters.",
+      "imageUrl": "/watertesting.jpg",
+      "imageHint": "water testing"
+    },
+    {
+      "id": "hero-carousel-2",
+      "description": "Professional laboratory setup with beakers and flasks.",
+      "imageUrl": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYWIJTIwcmVhZ2VudHN8ZW58MHx8fHwxNzcxMTU2NzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lab beakers"
+    },
+    {
+      "id": "hero-carousel-3",
+      "description": "Scientific petri dishes and precisely manufactured consumables.",
+      "imageUrl": "/labconsumables.jpeg",
+      "imageHint": "lab consumables"
+    },
+    {
+      "id": "services-grid",
+      "description": "Professional scientific laboratory setting focused on high-precision water quality testing and analysis.",
+      "imageUrl": "/bentopic2.png",
+      "imageHint": "water analysis"
+    },
+    {
+      "id": "partnership-banner",
+      "description": "Strategic technical collaboration in a modern scientific environment.",
+      "imageUrl": "/collab.jpg",
+      "imageHint": "scientific collaboration"
+    },
+    {
+      "id": "supply-hero",
+      "description": "A modern warehouse filled with high-tech laboratory equipment.",
+      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3YXJlaG91c2UlMjBsYWJvcmF0b3J5fGVufDB8fHx8MTc3MTMxNTcyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "warehouse laboratory"
+    },
+    {
+      "id": "glassware-category",
+      "description": "A collection of precise laboratory glassware on a clean bench.",
+      "imageUrl": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5JTIwZ2xhc3N3YXJlfGVufDB8fHx8MTc3MTMxNTcyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laboratory glassware"
+    },
+    {
+      "id": "plastics-category",
+      "description": "Sterile plastic laboratory consumables and petri dishes.",
+      "imageUrl": "/plastic.png",
+      "imageHint": "laboratory plastics"
+    },
+    {
+      "id": "watertreatment-category",
+      "description": "Industrial water treatment facility with filtration systems.",
+      "imageUrl": "/wpf.jpg",
+      "imageHint": "water treatment system"
+    },
+    {
+      "id": "mep-category",
+      "description": "Modern building infrastructure showing electrical and mechanical systems.",
+      "imageUrl": "/MEP.jpg",
+      "imageHint": "engineering building"
+    },
+    {
+      "id": "solutions-hero",
+      "description": "High-tech digital network and data infrastructure representing integrated enterprise solutions.",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1080",
+      "imageHint": "digital network"
+    },
+    {
+      "id": "environmental-analysis",
+      "description": "Environmental analysis and monitoring visualization.",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1V_pLqPWqfAg0_Tz2QsBlVhyZ7Fm2PH_Y",
+      "imageHint": "water analysis"
+    },
+    {
+      "id": "laboratory-research",
+      "description": "Professional water research laboratory with analytical testing equipment.",
+      "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80&w=1080",
+      "imageHint": "water research"
+    }
+  ]
+}
