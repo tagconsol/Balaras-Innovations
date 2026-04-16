@@ -19,11 +19,11 @@ export default function Footer() {
              <div className="flex items-center mb-4">
               <Link href="/">
                 <Image 
-                  src="/logo2.png" 
+                  src="/logo1.png" 
                   alt="Balaras Technologies Logo" 
-                  width={400} 
-                  height={120} 
-                  className="h-20 w-auto object-contain"
+                  width={480} 
+                  height={140} 
+                  className="h-24 w-auto object-contain"
                   suppressHydrationWarning
                 />
               </Link>

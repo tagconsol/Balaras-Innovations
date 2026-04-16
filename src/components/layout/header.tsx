@@ -51,15 +51,15 @@ export default function Header() {
         : "bg-transparent",
       isHidden && !isMenuOpen ? "-translate-y-full" : "translate-y-0"
     )}>
-      <div className="container flex h-20 items-center justify-between max-w-screen-2xl px-4">
+      <div className="container flex h-24 items-center justify-between max-w-screen-2xl px-4">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 group">
           <Image 
-            src="/logo2.png" 
+            src="/logo1.png" 
             alt="Balaras Technologies Logo" 
-            width={350} 
+            width={420} 
             height={100} 
-            className="h-16 w-auto object-contain"
+            className="h-20 w-auto object-contain"
             priority
             suppressHydrationWarning
           />
@@ -108,10 +108,10 @@ export default function Header() {
                   <div className="flex items-center p-6 border-b">
                     <Link href="/" className="flex items-center gap-2" onClick={() => setIsMenuOpen(false)}>
                       <Image 
-                        src="/logo2.png" 
+                        src="/logo1.png" 
                         alt="Balaras Technologies Logo" 
-                        width={250} 
-                        height={80} 
+                        width={350} 
+                        height={120} 
                         className="h-12 w-auto object-contain"
                       />
                     </Link>
