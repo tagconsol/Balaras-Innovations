@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 const supplyCategories = [
   {
     id: "glassware",
-    title: "Life Science / Glassware",
+    title: "Laboratory / Glassware",
     description: "Precision-engineered laboratory glassware for critical analysis and research applications.",
     icon: Beaker,
     imageId: "glassware-category",
@@ -18,7 +18,7 @@ const supplyCategories = [
   },
   {
     id: "plastics",
-    title: "Life Science / Plastics & Media",
+    title: "Laboratory / Plastics & Media",
     description: "High-quality plastic consumables and culture media for biological and chemical laboratories.",
     icon: TestTube,
     imageId: "plastics-category",
@@ -30,7 +30,7 @@ const supplyCategories = [
   },
   {
     id: "watertreatment",
-    title: "Life Science / Water Treatment",
+    title: "Laboratory / Water Treatment",
     description: "Comprehensive solutions for industrial, municipal, and laboratory water purification.",
     icon: Droplet,
     imageId: "watertreatment-category",
